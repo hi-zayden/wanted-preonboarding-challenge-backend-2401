@@ -9,10 +9,10 @@
 ## 과제 제출 방법
 - 저장소의 Issues 탭 클릭하고, New issue 버튼을 클릭합니다.
 - 'Get started' 버튼을 클릭합니다
-![스크린샷 2023-12-10 오전 7 08 40](https://github.com/hi-zayden/wanted-preonboarding-challenge-backend-2401/assets/153395045/a457597b-68f1-4b29-b037-d0b20f54d0fa)
+  - ![스크린샷 2023-12-10 오전 7 08 40](https://github.com/hi-zayden/wanted-preonboarding-challenge-backend-2401/assets/153395045/a457597b-68f1-4b29-b037-d0b20f54d0fa)
 
 - 템플릿으로 등록해 놓은 사전 과제의 답변을 작성합니다.
   - 제목: `제출일`과 `이름`수정
-![스크린샷 2023-12-10 오전 7 09 01](https://github.com/hi-zayden/wanted-preonboarding-challenge-backend-2401/assets/153395045/33bce91a-6859-4a57-ad8b-7776803fca4c)
+  - ![스크린샷 2023-12-10 오전 7 09 01](https://github.com/hi-zayden/wanted-preonboarding-challenge-backend-2401/assets/153395045/33bce91a-6859-4a57-ad8b-7776803fca4c)
 
-- `Submit new issue`버튼을 클릭해서 사전 과제를 제출합니다.
+- 'Submit new issue'버튼을 클릭해서 사전 과제를 제출합니다.
